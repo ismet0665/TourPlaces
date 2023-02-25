@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+  text-transform: uppercase;
+}
+h1 {
+  padding: 2rem;
+}
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 1.6rem;
+  }
+}
