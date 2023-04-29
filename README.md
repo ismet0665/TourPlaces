@@ -1,4 +1,5 @@
-https://tourplacesismet.netlify.app/
+
+![tourplaces](https://user-images.githubusercontent.com/118618011/235325916-82bd68ef-cba8-42d6-8a0e-09529b753802.gif)
 
 # Getting Started with Create React App
 
